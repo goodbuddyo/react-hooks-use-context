@@ -72,6 +72,8 @@ component hierarchies.
 
 Let's see how to use React Context to solve this problem.
 
+
+
 ## Creating Context
 
 In order to create our context data, we need to create two things:
